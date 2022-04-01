@@ -1,6 +1,6 @@
 # STB_AEGNG_AI
 
-This repository contains the code for reproducing the results in "_A computational model of hopelessness and active-escape bias in suicidality_"
+This repository contains the code for reproducing the results in Karvelis, P., & Diaconescu, A. O. (2022). A Computational Model of Hopelessness and Active-Escape Bias in Suicidality. Computational Psychiatry, 6(1), 34–59. DOI: http://doi.org/10.5334/cpsy.80
 
 
 To reproduce model simulations run _Dashboard_AI_GoNoGo_paper.m_ 
